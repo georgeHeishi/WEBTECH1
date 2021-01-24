@@ -1,0 +1,29 @@
+#main-heading{
+    text-align: center;
+    padding-top: 3rem;
+    height: 150px;
+    width: 100%;
+    min-width: 500px;
+}
+#disable-graph{
+    background-color: #AA011E;
+    border-color: #AA011E;
+}
+.space-bottom{
+    margin-bottom: 50px;
+}
+.amplitude-container{
+    height: 100px;
+}
+.container{
+    min-width: 1000px;
+}
+#footer{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+#footer ul, li, a{
+    list-style-type: none;
+    text-decoration: none;
+}
