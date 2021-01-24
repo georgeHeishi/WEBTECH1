@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e013925e-5d7a-49d5-b58a-faa0a20ecb12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jouza9AJ7XHGEBUI8vdY34wLdI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programovanie\WEBTECH\Zadanie5\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="local" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="file://$PROJECT_DIR$/index.html">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e013925e-5d7a-49d5-b58a-faa0a20ecb12" name="Default Changelist" comment="" />
+      <created>1604483028380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604483028380</updated>
+      <workItem from="1604483029457" duration="2056000" />
+      <workItem from="1604486071569" duration="31445000" />
+      <workItem from="1604846230001" duration="717000" />
+      <workItem from="1604869606546" duration="599000" />
+      <workItem from="1604924419129" duration="612000" />
+      <workItem from="1604927635771" duration="1060000" />
+      <workItem from="1605098492633" duration="1675000" />
+      <workItem from="1608489914076" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1605099338349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605099338349" />
+    <state x="757" y="333" key="#Web_Browsers" timestamp="1604509733068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="333" key="#Web_Browsers/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1604509733068" />
+    <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604509760340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1604509760340" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605108757827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605108757827" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604509798548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1604509798548" />
+    <state x="0" y="0" width="1674" height="1027" key="dock-window-1" timestamp="1604491677530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1674" height="1027" key="dock-window-1/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1604491677530" />
+  </component>
+</project>

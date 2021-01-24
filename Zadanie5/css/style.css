@@ -1,0 +1,27 @@
+#main-heading{
+    text-align: center;
+    padding-top: 3rem;
+    height: 150px;
+    width: 100%;
+    min-width: 500px;
+}
+.container{
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+#footer ul, li, a{
+    list-style-type: none;
+    text-decoration: none;
+}
+#footer a{
+    /*color: white;*/
+}
+#mapid {
+    height: 600px;
+}
