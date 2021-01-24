@@ -1,0 +1,88 @@
+body{
+    background-image: url("background-2462431.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+header{
+    text-align: center;
+    padding-top: 3rem;
+    height: 150px;
+    width: 100%;
+}
+footer{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+footer a{
+    color: white;
+}
+.row button{
+    position: relative;
+    left: 90%;
+    right: 0;
+}
+.btn-primary{
+    color: #343a40;
+    border-color: #9BB9BF;
+    background-color: #9BB9BF;
+}
+#insurance-form{
+    width: 780px;
+    margin: 20px auto;
+}
+#form{
+    padding: 30px;
+    background: white;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #f7f7f9;
+}
+.dropdown{
+    margin-bottom: 16px;   
+}
+h5{
+    color: salmon;
+    margin-left: 5px;
+    display: inline-block;
+}
+.form-check{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#preferenceOther{
+    display: none;
+}
+#preferenceBattery{
+    display: none;
+}
+#componentsArea{
+    margin-top: 20px;
+    display: block;
+}
+#componentsArea label{
+    font-weight: 500;
+    font-size: 30px;
+}
+#nameAlert{
+    display: none;
+}
+#surnameAlert{
+    display: none;
+}
+#emailAlert{
+    display: none;
+}
+#birthdateAlert{
+    display: none;
+}
+#birthdateAlertYear{
+    display: none;
+}
+#ageAlert{
+    display: none;
+}
+#notebookSelect{
+    display: none;
+}

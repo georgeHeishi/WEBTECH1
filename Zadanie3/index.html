@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Juraj Lapčák</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <header id="header">
+        <h1 id="main-heading">Prieskum desktopových zariadení</h1>
+    </header>
+    <main id="insurance-form">
+        <form id="form" name="myForm" onsubmit="return validateForm()"  action="http://iolab.sk/form2mail/form2mail.php" method="post" enctype="multipart/form-data">
+            <input type="hidden" name="apikey" value="97c1f4179dfed692ce9a366fc9863bee">
+
+            <input type="hidden" name="from" value="xlapcak@stuba.sk">
+            <input type="hidden" name="sender" value="Juraj Lapčák">
+            <input type="hidden" name="to" value="feistu02@gmail.com">
+            <input type="hidden" name="subject" value="Zadanie 3 Juraj Lapcak">
+            <input type="hidden" name="redirectOk" value="http://147.175.121.202/~xlapcak/zadanie3/">
+            <input type="hidden" name="redirectFalse" value="http://147.175.121.202/~xlapcak/zadanie3/">
+
+            <div class="container">
+                <div class="row">
+                    <fieldset class="col-md">
+                        <div class="form-group">
+                            <label for="name">Meno</label>
+                            <h5>*</h5>
+                            <input id="name" class="form-control" type="text" name="name" placeholder="Meno" autocomplete="off" >
+                            <div id="nameAlert" class="alert alert-danger" role="alert">
+                                Meno musí byť dlhšie ako 3 znaky!
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="surname">Priezvisko</label>
+                            <h5>*</h5>
+                            <input id="surname" class="form-control" type="text" name="surname" placeholder="Priezvisko" autocomplete="off">
+                            <div id="surnameAlert" class="alert alert-danger" role="alert">
+                                Priezvisko musí byť dlhšie ako 3 znaky!
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">E-mail</label>
+                            <h5>*</h5>
+                            <input id="email" class="form-control" type="email" name="email" placeholder="vzor@domena.domena" autocomplete="off">
+                            <div id="emailAlert" class="alert alert-danger" role="alert">
+                                Prosím, vložte valídnu e-mailovú adresu!
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="birthdate">Datum narodenia</label>
+                            <h5>*</h5>
+                            <input id="birthdate" class="form-control" type="date" name="birthdate">
+                            <div id="birthdateAlert" class="alert alert-danger" role="alert">
+                                Dátum narodenia nemôže byť prázdny!
+                            </div>
+                            <div id="birthdateAlertYear" class="alert alert-danger" role="alert">
+                                Rok narodenia nemôže byť menší ako 1800!
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="age">Vek</label>
+                            <input id="age" class="form-control" type="number" name="age" min="1" placeholder="1" autocomplete="off">
+                            <div id="ageAlert" class="alert alert-danger" role="alert">
+                                Prosím, vložte vek, ktorý súvisí s dátumom!
+                            </div>
+                        </div>
+                    </fieldset>
+                    <fieldset class="col-md">
+                        <h3>Čo vlastníte</h3>
+                        <div class="form-check form-check-inline">
+                            <input id="pcRadio" class="form-check-input" type="radio" name="device" value="pc" checked>
+                            <label class="form-check-label" for="pcRadio">PC</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input id="notebookRadio" class="form-check-input" type="radio" name="device" value="notebook">
+                            <label class="form-check-label" for="notebookRadio">Notebook</label>
+                        </div>
+                        <h3>Čo preferujete</h3>
+                        <div class="form-check">
+                            <input id="performance" class="form-check-input" type="checkbox" name="performace" value="performance">
+                            <label class="form-check-label" for="performance">Výkon</label>
+                        </div>
+                        <div class="form-check">
+                            <input id="design" class="form-check-input" type="checkbox" name="design" value="design">
+                            <label class="form-check-label" for="design">Dizajn</label>
+                        </div>
+                        <div class="form-check" id="preferenceBattery">
+                            <input id="battery" class="form-check-input" type="checkbox" name="battery" value="battery">
+                            <label class="form-check-label" for="battery">Výdrž batérie</label>
+                        </div>
+                        <div class="form-check">
+                            <input id="other" class="form-check-input" type="checkbox" name="other" value="other" >
+                            <label class="form-check-label" for="other">Iné</label>
+                        </div>
+                        <div class="form-group" id="preferenceOther">
+                            <label for="otherText">Iné</label>
+                            <input id="otherText" class="form-control" type="text" name="custom" autocomplete="off" placeholder="">
+                        </div>
+                        <div id="componentsArea" class="form-group">
+                            <label for="components">Komponenty</label>
+                            <textarea id="components" class="form-control" name="components" autocomplete="off" rows="4"></textarea>
+                        </div>
+                        <div id="notebookSelect" class="form-group">
+                            <div class="dropdown">
+                                <label for="notebookName">Názov notebooku</label>
+                                <select class="form-control" id="notebookName" name="notebookBrand">
+                                    <option value="acer">Acer</option>
+                                    <option value="asus">Asus</option>
+                                    <option value="hp">HP</option>
+                                    <option value="lenovo">Lenovo</option>
+                                </select>
+                            </div>
+                            <div class="dropdown">
+                                <label for="notebookType">Typ notebooku</label>
+                                <select class="form-control" id="notebookType" name="notebookType">
+
+                                </select>
+                            </div>
+                            <div class="dropdown">
+                                <label for="notebookModel">Model notebooku</label>
+                                <select class="form-control" id="notebookModel" name="notebookModel">
+
+                                </select>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="row">
+                        <button type="submit" class="btn btn-primary">Odoslať</button>
+                </div>
+            </div>
+        </form>
+    </main>
+    <footer>
+        Background Image by <a href="https://pixabay.com/users/manuchi-1728328/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2462431">Денис Марчук</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2462431">Pixabay</a>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
