@@ -1,0 +1,38 @@
+#tt{
+    height: auto;
+}
+.table{
+    table-layout: fixed;
+    height: 500px;
+    width: 100%;
+    margin: 50px 0 0 ;
+    border: 8px solid #252526;
+    background: white;
+    border-spacing: 0;
+}
+.table td{
+    border: 1px solid #252526;
+    height: 91px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0;
+}
+.lecture{
+    background: lightgreen;
+}
+.seminar{
+    background: lightskyblue;
+}
+.key{
+    table-layout: fixed;
+    margin: 0;
+    border: 2px solid #252526;
+    border-spacing: 0;
+}
+.key td{
+    border: 1px dashed #252526;
+    height: 90px;
+    width: 179px;
+    text-align: center;
+
+}

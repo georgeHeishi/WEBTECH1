@@ -1,0 +1,47 @@
+#cv{
+    height: 1150px;
+    font-size: 20px;
+}
+#h2c{
+    margin-left: 10px;
+}
+.leftc {
+    background: #252526;
+    margin: 25px 0 0;
+    height: 100%;
+    width: 400px;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.leftc li{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px 0 0;
+}
+.leftc a{
+    text-decoration: none;
+    color: whitesmoke;
+    background: #404042;
+    padding: 8px;
+}
+.rightc{
+    background: #B5B5B5;
+    margin: 25px 0 0;
+    height: 100%;
+    width: 900px;
+    float: right;
+}
+.figure2{
+    margin: 30px 0 30px;
+    float: left;
+}
+.figure2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.text-right{
+    margin-left: 10px;
+}
