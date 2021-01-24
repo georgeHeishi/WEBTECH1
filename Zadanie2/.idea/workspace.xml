@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37ced84e-c2e2-4596-96a1-39cd62d387e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iggrCQyZmTg35lGEsVp6TpR2Vq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programovanie\WEBTECH\Zadanie2" />
+      <recent name="D:\Programovanie\WEBTECH\Zadanie2\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programovanie\WEBTECH\Zadanie2\css" />
+      <recent name="D:\Programovanie\WEBTECH\Zadanie2" />
+      <recent name="D:\Programovanie\WEBTECH\Zadanie2\media" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Zadanie2 - z SFTP" type="JavascriptDebugType" uri="http://147.175.121.202/~xlapcak/zadanie2/">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37ced84e-c2e2-4596-96a1-39cd62d387e7" name="Default Changelist" comment="" />
+      <created>1602334845752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602334845752</updated>
+      <workItem from="1602334846828" duration="13957000" />
+      <workItem from="1602350285331" duration="7343000" />
+      <workItem from="1602360787949" duration="5967000" />
+      <workItem from="1602369121133" duration="37000" />
+      <workItem from="1602370351248" duration="1031000" />
+      <workItem from="1602409542635" duration="3616000" />
+      <workItem from="1602746311436" duration="776000" />
+      <workItem from="1602749424626" duration="1029000" />
+      <workItem from="1602856062965" duration="615000" />
+      <workItem from="1602970999335" duration="62000" />
+      <workItem from="1602972903007" duration="662000" />
+      <workItem from="1602978839584" duration="33000" />
+      <workItem from="1603223910216" duration="26000" />
+      <workItem from="1603224873249" duration="673000" />
+      <workItem from="1604485699850" duration="744000" />
+      <workItem from="1609185894439" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1602971057387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602971057387" />
+    <state x="536" y="165" key="#SSH_Configurations" timestamp="1602334863138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="165" key="#SSH_Configurations/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602334863138" />
+    <state x="757" y="369" key="#Web_Browsers" timestamp="1602353967831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="369" key="#Web_Browsers/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602353967831" />
+    <state x="414" y="175" width="1092" height="858" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602354221611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="858" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602354221611" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604485735313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1604485735313" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1602350557297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1602350557297" />
+  </component>
+</project>
