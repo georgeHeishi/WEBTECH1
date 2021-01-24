@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+.padding35px{
+    padding: 35px;
+}
+.zilinaDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 12%;
+    margin-left: 40%;
+}
+
+.presovDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 13%;
+    margin-left: 75%;
+}
+
+.trencinDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 12%;
+    margin-left: 16%;
+}
+
+.kosiceDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 24%;
+    margin-left: 75%;
+}
+
+.trnavaDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 30%;
+    margin-left: 15%;
+}
+
+.banskaBystricaDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 28%;
+    margin-left: 45%;
+}
+
+.bratislavaDiv{
+    position: absolute;
+    width: 10px;
+    height:10px;
+    margin-top: 34%;
+    margin-left: 6.2%;
+}
+
+.nitraDiv{
+    position: absolute; width: 10px; height:10px;margin-top: 37%; margin-left: 25%;
+}
+
+.st0{fill: #01394c;stroke: #ffffff;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:10; position: relative; width: 10px;height: 10px}
+.st1{fill: #0072a2;}
+.st2{fill: #0a0a0a;}
+.st3{fill: #654321;}
+.st4{fill: #132465;}
+.st5{fill: #854632;}
+.st6{fill: #afd852;}
+.st7{fill: #980054;}
+.st8{fill: #abcd88;}
+
+.textAlignCenter{
+    text-align: center;
+}
+
+.timelapse{
+    color: cadetblue;
+    font-size: 27px
+}
+
+
+.modal-button{
+    background-color: #02455c;
+    padding: 1em 2em;
+    color: #fff;
+    border:0;
+
+}
+
+.modal-button:hover{
+    background: #028cba;
+    cursor: pointer;
+}
+
+.positionRelative{
+    position: relative;
+}
+
+.modal2{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left:0;
+    top:0;
+
+    height: 100%;
+    width:100%;
+    overflow: auto;
+    background-color: rgba(1,0,0,0.58);
+}
+
+.modal-content2{
+    background-color: #f4f4f4;
+    margin: 20% auto;
+    padding: 20px;
+    width: 70%;
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2),0 7px 20px 0 rgba(0,0,0,0.2);
+    animation-name:modalopen;
+    animation-duration:.7s;
+}
+
+.modal-close-button{
+    color:#ccc;
+    float:right;
+    font-size: 30px;
+
+}
+
+.modal-close-button:hover,.closeBtn:focus{
+    color:#000;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+@keyframes modalopen {
+    from{opacity: 0}
+    to{opacity: 1}
+}
+
+#message1{
+    float: left;
+}

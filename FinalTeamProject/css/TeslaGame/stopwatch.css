@@ -1,0 +1,23 @@
+.stopwatch {
+    display: inline-block;
+    justify-items: center;
+    width: 100%;
+    height: auto;
+    text-align: center;
+
+}
+
+button{
+   width: auto;
+}
+
+.time {
+    font-family: "Roboto Mono", monospace;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.controls {
+    font-size:2vw;
+}
+

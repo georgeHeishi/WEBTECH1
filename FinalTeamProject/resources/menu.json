@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "title": "Úvod",
+      "href": "",
+      "submenu": []
+    },
+    {
+      "title": "Kontakt",
+      "href": "contact",
+      "submenu": []
+    },
+    {
+      "title": "Zábava",
+      "href": "#",
+      "submenu": [
+        {
+          "title": "Hry",
+          "href": "#",
+          "submenu": [
+            {
+              "title": "Dokonči EU",
+              "href": "eumapgame",
+              "submenu": []
+            },
+            {
+              "title": "Postav Teslu",
+              "href": "teslagame",
+              "submenu": []
+            },
+            {
+              "title": "Hra3",
+              "href": "hra3",
+              "submenu": []
+            },
+            {
+              "title": "Hra4",
+              "href": "hra4",
+              "submenu": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+body {margin: 0; height: 100%; }
+#main-content{
+    align-content: center;
+
+}
+#main-footer{
+    margin-top: 3.5rem;
+    position: relative;
+    width: 100%;
+    height: 2.5rem;
+}
+.game-wrapper{
+    text-align: center;
+    align-content: center;
+    padding: 20px;
+    resize: both;
+    position: relative;
+    height: 100%;
+
+
+}
+#tesla-car{
+    opacity: 10%;
+}
+img{
+    max-width: 100%;
+    display:block;
+    margin: 0;
+    object-fit: contain;
+
+}
+#object1{
+    margin: auto;
+    position: absolute;
+    top: 80%;
+    left: 0%;
+    /*top: 45%;*/
+    /*left: 4%;*/
+    min-width: 190px;
+    z-index: 1;
+}
+
+#object2{
+    margin: auto;
+    position: absolute;
+    /*top: 44%;*/
+    /*left: 70%;*/
+    top: 80%;
+    left: 5%;
+    min-width: 270px;
+    z-index: 1;
+}
+#object3{
+    margin: auto;
+    position: absolute;
+    /*top: 42%;*/
+    /*left: 69%;*/
+    top: 80%;
+    left: 10%;
+    min-width: 500px;
+    z-index: 1;
+}
+#object4{
+    margin: auto;
+    position: absolute;
+    /*top: 31.5%;*/
+    /*left: 43.8%;*/
+    top: 80%;
+    left: 15%;
+    min-width: 270px;
+    z-index: 1;
+}
+#object5{
+    margin: auto;
+    position: absolute;
+    /*top: 17.5%;*/
+    /*left: 4.6%;*/
+    top: 80%;
+    left: 20%;
+    min-width: 1100px;
+    z-index: 1;
+}
+#object6{
+    margin: auto;
+    position: absolute;
+    /*top: 63.5%;*/
+    /*left: 24%;*/
+    top: 80%;
+    left: 25%;
+    min-width: 600px;
+    z-index: 1;
+}
+#object7{
+    margin: auto;
+    position: absolute;
+    /*top: 39.5%;*/
+    /*left: 3.5%;*/
+    top: 80%;
+    left: 30%;
+    min-width: 300px;
+    z-index: 1;
+}
+#object8{
+    margin: auto;
+    position: absolute;
+    /*top: 42%;*/
+    /*left: 0.2%;*/
+    top: 80%;
+    left: 35%;
+    min-width: 50px;
+    z-index: 1;
+}
+#object9{
+    margin: auto;
+    position: absolute;
+    /*top: 33.9%;*/
+    /*left: 24.5%;*/
+    top: 80%;
+    left: 40%;
+    min-width: 270px;
+    z-index: 1;
+
+}
+#object10{
+    margin: auto;
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    min-width: 700px;
+    z-index: 1;
+}
+#object11{
+    margin: auto;
+    position: absolute;
+    /*top: 32.5%;*/
+    /*left: 63.6%;*/
+    top: 80%;
+    left: 50%;
+    min-width: 480px;
+    z-index: 1;
+}
+
+#game-board{
+    display:inline-block;
+    position: relative;
+}
+#game-objects{
+    display:inline-block;
+
+}
+.game-object{
+    z-index: 1;
+}
+#game-state{
+    font-size:2vw;
+    color: green;
+
+}
