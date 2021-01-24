@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c47214c1-b699-42da-901d-a771472604e0" name="Default Changelist" comment="Added autoplay to slideshow and modified onDrop to only save when">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slide-show.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/slide-show.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/drag-and-drop.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/drag-and-drop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slide-show.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/slide-show.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kC0RGWINSNxqID70miR0jI5i1B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programovanie\WEBTECH\Zadanie7\libraries\lightbox\js" />
+      <recent name="D:\Programovanie\WEBTECH\Zadanie7\libraries\lightbox\css" />
+      <recent name="D:\Programovanie\WEBTECH\Zadanie7\libraries\lightbox" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programovanie\WEBTECH\Zadanie7\libraries" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Zadanie7/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c47214c1-b699-42da-901d-a771472604e0" name="Default Changelist" comment="" />
+      <created>1605189255359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605189255359</updated>
+      <workItem from="1605189256438" duration="657000" />
+      <workItem from="1605382960112" duration="1134000" />
+      <workItem from="1605439838048" duration="23517000" />
+      <workItem from="1605491905082" duration="941000" />
+      <workItem from="1605519869399" duration="14439000" />
+      <workItem from="1605563483590" duration="5673000" />
+      <workItem from="1605615488274" duration="5230000" />
+      <workItem from="1605624132218" duration="612000" />
+      <workItem from="1605639604728" duration="118000" />
+      <workItem from="1605773346465" duration="598000" />
+      <workItem from="1605773970031" duration="1076000" />
+      <workItem from="1606069327279" duration="6099000" />
+      <workItem from="1606126303883" duration="31309000" />
+      <workItem from="1606300034645" duration="7314000" />
+      <workItem from="1606333256319" duration="10000" />
+      <workItem from="1606333435473" duration="3351000" />
+      <workItem from="1606337019324" duration="364000" />
+      <workItem from="1606768476198" duration="50000" />
+      <workItem from="1606770774089" duration="56000" />
+      <workItem from="1606770870123" duration="43000" />
+      <workItem from="1608471657105" duration="626000" />
+      <workItem from="1608488932882" duration="627000" />
+      <workItem from="1608498443854" duration="1276000" />
+      <workItem from="1608572310964" duration="5532000" />
+      <workItem from="1608662687908" duration="1226000" />
+      <workItem from="1608912665283" duration="619000" />
+      <workItem from="1608996252099" duration="621000" />
+      <workItem from="1608998384144" duration="229000" />
+      <workItem from="1609019396630" duration="1216000" />
+      <workItem from="1609064911720" duration="1888000" />
+      <workItem from="1609103298387" duration="966000" />
+      <workItem from="1609168170503" duration="1216000" />
+    </task>
+    <task id="LOCAL-00001" summary="Working JSON loader, added some CSS, drag and drop functionality, filter functionality with saving cookies">
+      <created>1606070585040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606070585040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added lighbox functionality by @lokesh">
+      <created>1606127173602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606127173602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added own slideshow">
+      <created>1606165373245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606165373245</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working JSON loader, added some CSS, drag and drop functionality, filter functionality with saving cookies" />
+    <MESSAGE value="Added lighbox functionality by @lokesh" />
+    <MESSAGE value="Added own slideshow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added own slideshow" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2362" y="141" key="#Deployment" timestamp="1608577155837">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1606770911958" />
+    <state x="2362" y="141" key="#Deployment/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1608577155837" />
+    <state x="2430" y="159" key="#Options" timestamp="1608577133428">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="201" key="#Options/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605455735884" />
+    <state x="2430" y="159" key="#Options/0.0.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1608577133428" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605469600133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605469600133" />
+    <state x="92" y="92" width="1736" height="856" key="DirDiffDialog" timestamp="1605469573539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DirDiffDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605469573539" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609064924168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606151198148" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609064924168" />
+    <state x="784" y="440" key="Github.CreateGistDialog" timestamp="1605774354866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="440" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605774354866" />
+    <state width="938" height="2" key="GridCell.Tab.0.bottom" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.0.center" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.0.left" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.0.right" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.1.bottom" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.1.center" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.1.left" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.1.right" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.2.bottom" timestamp="1605490874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874591" />
+    <state width="938" height="2" key="GridCell.Tab.2.center" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.2.left" timestamp="1605490874590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874590" />
+    <state width="938" height="2" key="GridCell.Tab.2.right" timestamp="1605490874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874591" />
+    <state width="938" height="2" key="GridCell.Tab.3.bottom" timestamp="1605490874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874591" />
+    <state width="938" height="2" key="GridCell.Tab.3.center" timestamp="1605490874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874591" />
+    <state width="938" height="2" key="GridCell.Tab.3.left" timestamp="1605490874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874591" />
+    <state width="938" height="2" key="GridCell.Tab.3.right" timestamp="1605490874591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="2" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605490874591" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1609091101220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1609091101220" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606335398738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606335398738" />
+    <state x="493" y="190" key="run.anything.popup" timestamp="1606334591989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1606334591989" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1605530821148" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606156768765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606156768765" />
+  </component>
+</project>

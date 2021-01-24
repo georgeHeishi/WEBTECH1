@@ -1,0 +1,44 @@
+{
+  "photos":
+  [
+    {
+      "src": "hmla_za_bytovkou.jpg",
+      "title": "Hmla",
+      "description": "Hmla sfotená z okna nášho bytu"
+    },
+    {
+      "src": "macka.jpg",
+      "title": "Dobby",
+      "description": "Mačka menom Dobby, ktorá patrí mojej priateľke"
+    },
+    {
+      "src": "mallorca_plaz_zapad.jpg",
+      "title": "Západ slnka na Malorke pláž",
+      "description": "Fotka z Malorky, ako sa západ slnka odráža od mora "
+    },
+    {
+      "src": "mallorca_vlajky.jpg",
+      "title": "Can Picafort",
+      "description": "Fotka z dovolenky na Malorke"
+    },
+    {
+      "src": "mallorca_zapad.jpg",
+      "title": "Západ slnka na Malorke",
+      "description": "Fotka z dovolenky na Malorke, západu slnka"
+    },
+    {
+      "src": "sneh_pred_bytovkou.jpg",
+      "title": "Sneh",
+      "description": "Fotka snehu z môjho okna"
+    },
+    {
+      "src": "strbske_pleso.jpg",
+      "title": "Štrbské pleso",
+      "description": "Fotka Štrbského plesa cestou domov z Bratislavy"
+    },    {
+    "src": "trencin.jpg",
+    "title": "Trenčín",
+    "description": "Fotka mňa na výlete v Trenčíne"
+  }
+  ]
+}

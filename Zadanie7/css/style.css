@@ -1,0 +1,97 @@
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    min-height: 320px ;
+    min-width: 320px ;
+}
+.panel{
+    height: 10%;
+    background-color: #3B3B3B;
+}
+header{
+    padding-top: 1vh;
+    color: whitesmoke;
+    height: 100%;
+}
+header h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 7vh;
+}
+.material-icons{
+    float: left;
+    font-size: 7vh;
+}
+.container{
+    margin: 2vh auto;
+}
+.gallery-row{
+    margin-top: 20px;
+}
+.img-thumbnail{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+
+    margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+.img-thumbnail:hover{
+    box-shadow: 0 16px 32px 0 rgba(0,0,0,0.4);
+    cursor: pointer;
+}
+.left-offset{
+    padding-left: 10vw;
+}
+.center{
+    text-align: center;
+}
+body.dragging, body.dragging * {
+    cursor: move !important;
+}
+
+.drag img{
+    margin: 5px;
+    transition:width 0.3s, height 0.3s;
+    cursor: move;
+}
+
+.dragged {
+    position: absolute;
+    opacity: 0.5;
+    z-index: 2000;
+}
+.drag .placeholder:before {
+    position: absolute;
+}
+
+.drag .placeholder{
+    vertical-align: middle;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: #fff;
+    position: relative;
+    border: 2px dashed #000;
+    line-height: 1.428571429;
+    border-radius: 4px;
+    margin: 5px;
+}
+@media only screen and (max-height: 320px){
+    header h1{
+        font-size: 20px;
+    }
+    .material-icons{
+        font-size: 20px;
+    }
+}
+
+.modal-body{
+    font-family: 'Roboto', sans-serif;
+}
+.modal .btn{
+    background-color: #3B3B3B;
+}
+
+
+
