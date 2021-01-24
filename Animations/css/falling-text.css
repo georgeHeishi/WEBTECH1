@@ -1,0 +1,70 @@
+body{
+    background-color: #1f1f1f;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.wrapper{
+    margin: auto;
+    position: relative;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
+
+.letter{
+    cursor: context-menu;
+    font-family: 'Arvo', serif;
+    font-family: 'Montserrat', sans-serif;
+    width: fit-content;
+    font-size: 9vw;
+    position: absolute;
+    color: #D60202;
+    top: 200px;
+}
+#d{
+    left: 12%;
+}
+#o1{
+    left: 19%
+}
+#n{
+    left: 33%
+}
+#o2{
+    left: 40%
+}
+#t{
+    left: 47%
+}
+#c1{
+    left: 61%
+}
+#l{
+    left: 68%
+}
+#i{
+    left: 73%
+}
+#c2{
+    left: 75%
+}
+#k{
+    left: 81%
+}
+
+.button{
+    background-color: #B20202;
+    border: none;
+    color: #1f1f1f;
+    font-family: 'Arvo', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
